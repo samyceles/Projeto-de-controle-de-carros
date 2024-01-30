@@ -41,21 +41,21 @@ Tabela de conteúdos
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [TypeScript](https://www.typescriptlang.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o Backend (servidor)
+#### 🎲 Rodando o servidor
 
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:samyceles/Projeto-de-controle-de-carros.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd Projeto-de-controle-de-carros
 
 # Vá para a pasta server
-$ cd server
+$ cd serve
 
 # Instale as dependências
 $ npm install
@@ -71,7 +71,7 @@ $ npm run dev:server
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -104,6 +104,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Samy Celes 
+👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
 
 ---

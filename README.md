@@ -6,6 +6,11 @@
 <h3 align="center">
     🚀 API voltada para o controle de carros dentro de uma concessionária.
 </h3>
+</p>
+
+<h4 align="center">
+	🚧  Em construção  🚀 🚧
+</h4>
 
 Tabela de conteúdos
 =================
@@ -32,7 +37,7 @@ Tabela de conteúdos
 - [x] Listar todos os carros cadastrados.
 - [x] Listar as informações de um carro específico.
 - [x] Atualizar as informações dos carros cadastrados.
-- [x] Deletar dos carros cadastrados.
+- [x] Deletar os carros cadastrados.
  
 ---
 
@@ -41,7 +46,7 @@ Tabela de conteúdos
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [TypeScript](https://www.typescriptlang.org/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/, [TypeScript](https://www.typescriptlang.org/) e [PostgreSQL](https://www.postgresql.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o servidor
@@ -54,16 +59,13 @@ $ git clone git@github.com:samyceles/Projeto-de-controle-de-carros.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Projeto-de-controle-de-carros
 
-# Vá para a pasta server
-$ cd serve
-
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
 
@@ -74,29 +76,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
--   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
 -   **[dotENV](https://github.com/motdotla/dotenv)**
--   **[Multer](https://github.com/expressjs/multer)**
--   **[Celebrate](https://github.com/arb/celebrate)**
--   **[Joi](https://github.com/hapijs/joi)**
-
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
+-   **[PostgreSQL](https://www.postgresql.org/download/)**
+-   **[Insomnia](https://insomnia.rest/)**
 
 ---
 
 ## 🦸 Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="[https://blog.rocketseat.com.br/author/thiago/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.quizur.com%2Ftrivia%2Fvc-realmente-conhece-a-viagem-de-chihiro-RNWs&psig=AOvVaw3nmlPnHnVl4b65QO1SKQ0Z&ust=1706750919786000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj5teS8hoQDFQAAAAAdAAAAABAK)">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
- <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ <sub><b>Samy Celes</b></sub></a>
 
 ---
 
@@ -105,6 +99,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Samy Celes 
-👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+👋🏽 [Entre em contato!](www.linkedin.com/in/samyceles)
 
 ---

@@ -87,10 +87,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="[https://blog.rocketseat.com.br/author/thiago/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.quizur.com%2Ftrivia%2Fvc-realmente-conhece-a-viagem-de-chihiro-RNWs&psig=AOvVaw3nmlPnHnVl4b65QO1SKQ0Z&ust=1706750919786000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj5teS8hoQDFQAAAAAdAAAAABAK)">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140">
+ <img style="border-radius: 50%; width="100px;" alt=""/>
  <br />
- <sub><b>Samy Celes</b></sub></a>
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <br />
 
 ---
 

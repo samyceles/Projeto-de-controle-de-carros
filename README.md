@@ -87,7 +87,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
- <img style="border-radius: 50%; <img src="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140">; width="100px;" alt=""/>
+ <img src="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140">; <img style="border-radius: 50%; ; width="100px;" alt=""/>
  <br />
  <sub><b>Samy Celes</b></sub>
  <br />

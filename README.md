@@ -77,7 +77,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Express](https://expressjs.com/)**
 -   **[KnexJS](http://knexjs.org/)**
--   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
 -   **[dotENV](https://github.com/motdotla/dotenv)**
 -   **[PostgreSQL](https://www.postgresql.org/download/)**
@@ -88,10 +87,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
  <img src="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140" style="border-radius: 50%; width: 150px; height: auto;" alt=""/>
- <br />
  <h3>Samy Celes</h3>
  <br />
-
 ---
 
 ## 📝 Licença

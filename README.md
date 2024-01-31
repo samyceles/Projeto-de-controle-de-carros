@@ -89,7 +89,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img src="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140" style="border-radius: 50%; width: 150px; height: auto;" alt=""/>
  <br />
- <sub><b>Samy Celes</b></sub>
+ <h3>Samy Celes</h3>
  <br />
 
 ---

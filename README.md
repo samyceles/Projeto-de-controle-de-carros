@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center">
-	🚧  Em construção  🚀 🚧
+	🚧  Em construção  🚧
 </h4>
 
 Tabela de conteúdos
@@ -87,10 +87,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140">
- <img style="border-radius: 50%; ![Logo da Minha Empresa](https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140); width="100px;" alt=""/>
+ <img style="border-radius: 50%; <img src="https://img.quizur.com/f/img63b0c4d9d347d4.06756176.jpg?lastEdited=1672529140">; width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Samy Celes</b></sub>
  <br />
 
 ---

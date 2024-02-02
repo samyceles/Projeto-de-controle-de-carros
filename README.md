@@ -16,7 +16,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
+   * [Funcionalidades](#funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando o servidor](#user-content--rodando-o-backend-servidor)
@@ -46,7 +46,7 @@ Tabela de conteúdos
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/, [TypeScript](https://www.typescriptlang.org/) e [PostgreSQL](https://www.postgresql.org/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/) e [PostgreSQL](https://www.postgresql.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o servidor
